@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Eytham/OneDrive/Documentos/STM32PROJECTS/carrito/build/Debug/cmake_install.cmake",
+		"C:/Users/Eytham/OneDrive/Documentos/STM32PROJECTS/carrito/build/Debug/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
